@@ -1,11 +1,7 @@
 {
   "name": "1brc",
-  "module": "main.ts",
+  "version": "1.0.0",
   "type": "module",
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  }
+  "main": "main.js",
+  "license": "MIT"
 }
